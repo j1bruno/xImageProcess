@@ -1,3 +1,6 @@
+# Created by Joe Bruno 
+# December 2014
+
 from PIL import Image
 import sys
 import os
